@@ -16,11 +16,11 @@ Make sure you have the following installed on your machine:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/simple-crud-api.git
+    git clone https://github.com/Ofor-David/Express-CRUDAPI.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd simple-crud-api
+    cd express-crudapi
     ```
 3. Install the dependencies:
     ```bash
